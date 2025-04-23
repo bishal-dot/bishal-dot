@@ -25,7 +25,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=radical)
+![GitHub Streak]🧑‍💻(https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=radical)
 
