@@ -26,6 +26,13 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=radical)
 
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-yadav-41a566174/)  
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:bishalyadav500@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bishal-dot&label=PROFILE+VIEWS)
+
 <!---
 bishal-dot/bishal-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
