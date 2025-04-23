@@ -14,6 +14,18 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+
+### 📊 GitHub Stats
+
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=radical)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=radical)
+
 <!---
 bishal-dot/bishal-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
