@@ -25,9 +25,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ### 📈 GitHub Streak
-![Bishal's GitHub Streak](https://streak-stats.demolab.com?user=bishal-dot&theme=tokyonight&hide_border=false)
-
-
+![Bishal's GitHub Streak](https://streak-stats.demolab.com?user=bishal-dot&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=tokyonight)
