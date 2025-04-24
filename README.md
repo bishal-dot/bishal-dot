@@ -18,23 +18,26 @@
 ![Java (Android)](https://img.shields.io/badge/-Java%20(Android)-ED8B00?logo=java&logoColor=white)
 
 
-
 ### 📊 GitHub Stats
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=radical)
+### 🔝 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=radical)
+### 📈 GitHub Streak
+![Bishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=tokyonight&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=radical)
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=tokyonight)
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-yadav-41a566174/)  
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:bishalyadav500@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=bishal-dot&label=PROFILE+VIEWS)
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=bishal-dot&color=brightgreen)
+
 
 <!---
 bishal-dot/bishal-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
