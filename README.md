@@ -5,21 +5,23 @@
 - 📫 How to reach me: You can reach me via email at bishalyadav500@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/bishal-yadav-41a566174/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sleeping.
+-  🌐 Portfolio: [bishaly.com.np](https://bishaly.com.np)
 
 ### 🔧 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Pinia](https://img.shields.io/badge/-Pinia-FFD400?logo=pinia&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 
