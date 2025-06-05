@@ -7,14 +7,6 @@
 - ⚡ Fun fact: I love sleeping.
 -  🌐 Portfolio: [bishaly.com.np](https://bishaly.com.np)
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| ✅ **Tasks TODO App** | A simple and intuitive task manager where users can add, edit, and delete their to-do items. | Vue.js, Pinia, Tailwind CSS | [View on GitHub](https://github.com/bishal-dot/Tasks-TODO-app) |
-| 🛒 **e-Commerce Site** | A basic e-commerce frontend layout with product cards, categories, and cart UI design. | Vue.js, Tailwind CSS | [View on GitHub](https://github.com/bishal-dot/e-Commerce) |
-| 🌐 **Personal Portfolio Website** | Your personal portfolio showcasing projects, skills, and contact info. Live version hosted on Vercel. | Nuxt.js, Tailwind CSS | [View on GitHub](https://github.com/bishal-dot/biishal) · [Live Site](https://bishaly.com.np |
-
 ### 🔧 Tech Stack
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
