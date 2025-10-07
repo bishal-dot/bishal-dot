@@ -26,7 +26,7 @@
 
 
 ### 📊 GitHub Stats
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=onedark&cache_seconds=86400)
 
 ### 🔝 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight&cache_seconds=86400)
