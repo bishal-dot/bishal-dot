@@ -29,13 +29,13 @@
 ![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=onedark&cache_seconds=86400)
 
 ### 🔝 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=onedark&cache_seconds=86400)
 
 ### 📈 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=bishal-dot&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=bishal-dot&theme=onedark)
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌐 Connect with Me
 
