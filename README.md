@@ -35,7 +35,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=bishal-dot&theme=onedark)
 
 ### 🏆 GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=winteriscomming)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=merko)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌐 Connect with Me
 
