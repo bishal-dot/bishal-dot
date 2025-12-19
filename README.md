@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning javascript, and exploring front-end technologies like Vue.js, Tailwind CSS and Laravel.
 - 💞️ I’m looking to collaborate on front-end and full-stack web development projects, particularly those involving Vue and Laravel.
 - 📫 How to reach me: You can reach me via email at bishalyadav500@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/bishal-yadav-41a566174/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sleeping.
 -  🌐 Portfolio: [bishal-yadav.com.np](https://bishal-yadav.com.np)
 
 ### 🔧 Tech Stack
