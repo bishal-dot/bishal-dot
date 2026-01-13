@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Yadav</h1>
-<h3 align="center">Front-End & Full-Stack Web Developer | Vue • Laravel • Tailwind</h3>
+<h3 align="center">Front-End & Full-Stack Web Developer | Vue • NextJs • Tailwind</h3>
 
 <p align="center">
   <a href="https://bishal-yadav.com.np" target="_blank">🌐 Portfolio</a> •
@@ -12,11 +12,11 @@
 ## 👨‍💻 About Me
 
 I’m a passionate **Web Developer** focused on building **responsive, scalable, and user-friendly applications**.  
-I enjoy working across the **front-end and full-stack ecosystem**, especially with **Vue.js and Laravel**, and I’m constantly learning to improve performance, UI/UX, and clean architecture.
+I enjoy working across the **front-end and full-stack ecosystem**, especially with **Vue.js, ReactJs, NextJs and Laravel**, and I’m constantly learning to improve performance, UI/UX, and clean architecture.
 
-- 🔭 Currently working with **Vue, Nuxt & Laravel**
+- 🔭 Currently working with **VueJs, ReactJs, Flutter & .Net**
 - 🌱 Learning **advanced JavaScript patterns & modern front-end workflows**
-- 🤝 Open to collaborating on **Vue & Laravel projects**
+- 🤝 Open to collaborating on **Vue & NextJs projects**
 - ⚡ Interested in **clean UI, performance optimization & best practices**
 
 ---
