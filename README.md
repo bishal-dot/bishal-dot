@@ -14,7 +14,7 @@
 I’m a passionate **Web Developer** focused on building **responsive, scalable, and user-friendly applications**.  
 I enjoy working across the **front-end and full-stack ecosystem**, especially with **Vue.js, ReactJs, NextJs and Laravel**, and I’m constantly learning to improve performance, UI/UX, and clean architecture.
 
-- 🔭 Currently working with **VueJs, ReactJs, Flutter & .Net**
+- 🔭 Currently working with **NextJs, VueJs, ReactJs**
 - 🌱 Learning **advanced JavaScript patterns & modern front-end workflows**
 - 🤝 Open to collaborating on **Vue & NextJs projects**
 - ⚡ Interested in **clean UI, performance optimization & best practices**
