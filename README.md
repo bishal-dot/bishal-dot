@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishal Yadav</h1>
-<h3 align="center">Junior Frontend & Full-Stack Developer | Vue • Next.js • React • Laravel</h3>
+<h3 align="center">Junior Frontend & Full-Stack Developer | Next.js • Vue.js • React • Laravel</h3>
 
 <p align="center">
   <a href="https://bishal-yadav.com.np">🌐 Portfolio</a> •
@@ -57,8 +57,8 @@ A modern web app for managing barbershop bookings and client information.
 - Integrated **real-time database features** using Supabase  
 - Focused on **clean design and smooth user experience**  
 
-🔗 Live Demo: (Add link)  
-🔗 Repository: (Add link)
+🔗 Live Demo: (https://fellasbarbershop.vercel.app/)  
+🔗 Repository: (https://github.com/bishal-dot/fellasbarbershop)
 
 ---
 
@@ -71,8 +71,8 @@ A hospital management system to streamline patient records and operational workf
 - Optimized **data handling and performance** for better responsiveness  
 - Developed **structured, maintainable code** using TypeScript  
 
-🔗 Live Demo: (Add link)  
-🔗 Repository: (Add link)
+🔗 Live Demo: (https://github.com/bishal-dot/HSP_Plus)  
+🔗 Repository: (https://github.com/bishal-dot/HSP_Plus)
 
 ---
 
