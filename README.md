@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=650&lines=Next.js+Full-Stack+Developer;API+Architecture+Enthusiast;React+Query+Expert;Performance+Optimization+Focused;Clean+Code+Advocate" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&center=true&vCenter=true&width=650&lines=Next.js+Full-Stack+Developer;API+Architecture;React+Query;Performance+Optimization+Focused;Clean+Code" />
 </p>
 
 ---
@@ -40,8 +40,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -68,8 +68,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=tokyonight" height="180"/>
 </p>
 
 ---
