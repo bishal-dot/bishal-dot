@@ -40,7 +40,6 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bishal-dot&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 🧠 Architecture Style
