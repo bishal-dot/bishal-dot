@@ -64,8 +64,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bishal-dot&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishal-dot&layout=compact&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=tokyonight" height="180"/>
 </p>
 
