@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Full-Stack Next.js Developer</h1>
+<h1 align="center">Hi 👋, I'm a Next.js Developer</h1>
 
 <p align="center">
 🚀 Building scalable, fast & modern web applications with Next.js • React • APIs • Databases
@@ -63,22 +63,6 @@
 - 🧩 Scalable frontend/backend architecture
 - 🔐 Secure and maintainable API design
 - 🗄️ Efficient database integration
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bishal-dot&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bishal-dot&theme=tokyo-night"/>
-</p>
 
 ---
 
