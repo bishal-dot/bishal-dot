@@ -80,11 +80,9 @@
 
 ---
 
-## 📬 Connect With Me
 
-<p align="center">
 
-<a href="https://github.com/bishal-dot">
+<!-- <a href="https://github.com/bishal-dot">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -94,7 +92,7 @@
 
 <a href="mailto:bishalyadav500@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+</a> -->
 
 </p>
 
